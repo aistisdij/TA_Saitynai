@@ -1,4 +1,2 @@
-# TrainNet
-Projekto tikslas – palengvinti trenerių darbą, skatinti bendradarbiavimą, suteikti galimybę praplėsti žinias, teikiant galimybę kurti, dalintis ir vertinti treniruočių programas
-Veikimo principas: platforma susideda iš internetinės aplikacijos, kuria naudosis treneriai ir administratoriai bei aplikacijų programavimo sąsajos.
-Treneriai prisijungę gales kurti treniruočių programas, įkelti schemas, pridėti pratimus, dalintis programomis, reitinguoti ir komentuoti kitų trenerių programas, taip siekiant išryškinti kokybiškiausias. Administratorius patvirtina registracijas ir programų paskelbimą.
+# Twilight Ascendant
+Projekto tikslas – palengvinti „Warcraft 3“ žaidėjų pasiruošimą “dungeonams”, skatinti bendruomeniškumą, suteikti galimybę dalintis žiniomis bei strategijomis. Platforma leis vartotojams kurti, publikuoti ir vertinti “buildus”, taip išryškinant efektyviausias taktikasVeikimo principas: platforma susideda iš internetinės aplikacijos, kuria naudosis treneriai ir administratoriai bei aplikacijų programavimo sąsajos.
